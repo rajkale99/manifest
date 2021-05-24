@@ -48,8 +48,5 @@
 
 <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="legion" revision="11" />
 
-  <!-- OTA -->
-  <project path="OTA" name="OTA" remote="LegionOS-Devices">
-      <linkfile src="ota.sh" dest="ota.sh" />
-  </project>
+ 
 </manifest>
