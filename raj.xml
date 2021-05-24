@@ -45,3 +45,4 @@
       <copyfile dest="vendor/qcom/opensource/Android.bp" src="os_pickup.bp" />
 
 <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="legion" revision="11" />
+</manifest>
